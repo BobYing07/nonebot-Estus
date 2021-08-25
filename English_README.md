@@ -54,8 +54,6 @@ Execute command: /menu
 
 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 
-[Ybot](https://github.com/HeyYubadboy/YBOT)
-
 ### Oh no,bugs!What should I do？
 1.pip uninstall nonebot2
 
