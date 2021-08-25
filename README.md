@@ -55,7 +55,6 @@
 
 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 
-[Ybot](https://github.com/HeyYubadboy/YBOT)
 
 ### 出现bug了，怎么办？
 1.pip uninstall nonebot2
