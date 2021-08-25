@@ -65,4 +65,4 @@ Execute command: /menu
 
 4.Chat：769394903
 ### Donate to this project
-[爱发电赞助] https://afdian.net/@Beimo
+[Afdian] https://afdian.net/@Beimo
