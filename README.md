@@ -6,7 +6,7 @@
  
  **Ganyu** 是一个基于[go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 和 [nonebot](https://github.com/nonebot/nonebot)的QQ机器人
  
-[Change to English Version](https:/github.com/Ganyu2007/nonebot-Ganyu/English_README.md)
+[Change to English Version](https://github.com/Ganyu2007/nonebot-Ganyu/blob/main/English_README.md)
 
 ![Release](https://img.shields.io/badge/Release-v0.0.1-red.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.9+-yellow.svg)
