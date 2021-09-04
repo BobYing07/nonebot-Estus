@@ -16,9 +16,7 @@
 
 
 ### About
-The name of this bot is inspired by Genshin Impact released by Mihoyo
-
-Any icon, LOGO, interpretation and copyright of GanYu in this project belongs to Mihoyo
+The name `Ganyu` is inspired by Genshin Impact released by Mihoyo
 
 My QQ：20203491392
 
@@ -26,35 +24,35 @@ Bot's QQ：2581249284
 
 Chat：769394903
 
-Connect me：2023491392@qq.com
+Contact me：2023491392@qq.com
 
-The plugins are in Ganyu/plugins
+The plugins are in `Ganyu/plugins`
 
 ### Declaration
 **The development of this robot is for learning only,using it for business or other illegal purposes is not allowed**
 
-### How to run the code?
+### Implementation
 **Linux/Windows** system can run this project
 
-`Python 3.9+` is required
+First, `Python 3.9+` is required
 
-You will also need`go-cqhttp` + `nonebot1`
+Please install `gocqhttp` and `nonebot1` too
 
 Follow Update.md for update
 
 
 
 
-### Function
-Run menu.py in Ganyu/plugins
+### Usage
+Run `menu.py` in `Ganyu/plugins`
 
 Execute command: /menu
-### Thanks to
+### Thanks
 [RichardChien](https://github.com/richardchien)
 
 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 
-### Oh no,bugs!What should I do？
+### About bug
 1.pip uninstall nonebot2
 
 2.Submit a new issue
