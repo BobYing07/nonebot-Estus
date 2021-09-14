@@ -44,9 +44,9 @@
 
 
 ### 功能
-请使用 `Hutao/plugins` 中的 `menu.py`
-
 执行命令：`/menu`
+
+
 
 ### 特别感谢
 [RichardChien](https://github.com/richardchien)
