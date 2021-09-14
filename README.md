@@ -2,9 +2,9 @@
 <img width="350" src="https://avatars.githubusercontent.com/u/66893970?s=400&u=91f7624017521f1c14401a05bb23f93792731447&v=4" alt="logo">
 
  
-# Ganyu
+# nonebot-Hutao
  
- **Ganyu** 是一个基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 和 [nonebot](https://github.com/nonebot/nonebot) 的QQ机器人
+ **Hutao** 是一个基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 和 [nonebot](https://github.com/nonebot/nonebot) 的QQ机器人
  
 [Change to English Version](https://github.com/Ganyu2007/nonebot-Ganyu/blob/main/English_README.md)
 
@@ -26,7 +26,7 @@
 
 联系主人：2023491392@qq.com
 
-插件位于 `Ganyu/plugins` 中
+插件位于 `Hutao/plugins` 中
 
 ### 声明
 **本机器人的开发仅供学习，请勿用于商务或其他非法用途**
@@ -44,7 +44,7 @@
 
 
 ### 功能
-请使用 `Ganyu/plugins` 中的 `menu.py`
+请使用 `Hutao/plugins` 中的 `menu.py`
 
 执行命令：`/menu`
 
