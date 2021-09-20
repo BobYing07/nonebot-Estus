@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+<div align="center">
+<img width="350" src="https://avatars.githubusercontent.com/u/66893970?s=400&u=91f7624017521f1c14401a05bb23f93792731447&v=4" alt="logo">
 
-You can use the [editor on GitHub](https://github.com/Ganyu2007/nonebot-Hutao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ 
+# nonebot-Hutao
+ 
+ **Hutao** is a QQ bot which is based on [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) and  [nonebot](https://github.com/nonebot/nonebot)
+ 
+[切换到中文](https://github.com/Ganyu2007/nonebot-Ganyu/blob/main/README.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Release](https://img.shields.io/badge/Release-v0.0.1-red.svg)
+![Python Version](https://img.shields.io/badge/Python-3.9+-yellow.svg)
+![NoneBot Version](https://img.shields.io/badge/nonebot-nonebot1-blue.svg)
 
-### Markdown
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### About
+The name `Ganyu` is inspired by Genshin Impact released by Mihoyo
 
-# Header 1
-## Header 2
-### Header 3
+My QQ：20203491392
 
-- Bulleted
-- List
+Bot's QQ：2581249284
 
-1. Numbered
-2. List
+Chat：769394903
 
-**Bold** and _Italic_ and `Code` text
+Contact me：2023491392@qq.com
 
-[Link](url) and ![Image](src)
-```
+The plugins are in `Hutao/plugins`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Declaration
+**The development of this robot is for learning only,using it for business or other illegal purposes is not allowed**
 
-### Jekyll Themes
+### Implementation
+**Linux/Windows** system can run this project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ganyu2007/nonebot-Hutao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+First, `Python 3.9+` is required
 
-### Support or Contact
+Please install `gocqhttp` and `nonebot1` too
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Follow Update.md for update
+
+
+
+
+### Usage
+Execute command: /menu
+
+
+### Thanks
+[RichardChien](https://github.com/richardchien)
+
+[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+
+### About bug
+1.pip uninstall nonebot2
+
+2.Submit a new issue
+
+3.My QQ：2023491392
+
+4.Chat：769394903
+### Donate to this project
+[Afdian] https://afdian.net/@Beimo
