@@ -4,14 +4,7 @@
  
 # nonebot-Hutao
  
- **Hutao** is a QQ bot which is based on [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) and  [nonebot](https://github.com/nonebot/nonebot)
- 
-[切换到中文](https://github.com/Ganyu2007/nonebot-Ganyu/blob/main/README.md)
-
-![Release](https://img.shields.io/badge/Release-v0.0.1-red.svg)
-![Python Version](https://img.shields.io/badge/Python-3.9+-yellow.svg)
-![NoneBot Version](https://img.shields.io/badge/nonebot-nonebot1-blue.svg)
-
+ <br>**Hutao** is a QQ bot which is based on <a href="https://github.com/Mrs4s/go-cqhttp">gocqhttp</a> and <a href="https://github.com/nonebot/nonebot">nonebot</a>
 </div>
 
 
@@ -61,4 +54,4 @@ Execute command: /menu
 
 4.Chat：769394903
 ### Donate to this project
-[Afdian] https://afdian.net/@Beimo
+<a href="https://afdian.net/@Beimo">afdian</a>
