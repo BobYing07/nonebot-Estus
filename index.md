@@ -1,10 +1,5 @@
-<div align="center">
-<img width="350" src="https://avatars.githubusercontent.com/u/66893970?s=400&u=91f7624017521f1c14401a05bb23f93792731447&v=4" alt="logo">
-
- 
 # nonebot-Hutao
 <br>**Hutao** is a QQ bot which is based on <a href="https://github.com/Mrs4s/go-cqhttp">gocqhttp</a> and <a href="https://github.com/nonebot/nonebot">nonebot</a>
-</div>
 
 
 ## About
