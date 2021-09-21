@@ -1,5 +1,5 @@
 # nonebot-Hutao
-<br>**Hutao** is a QQ bot which is based on <a href="https://github.com/Mrs4s/go-cqhttp">gocqhttp</a> and <a href="https://github.com/nonebot/nonebot">nonebot</a>
+**Hutao** is a QQ bot which is based on <a href="https://github.com/Mrs4s/go-cqhttp">gocqhttp</a> and <a href="https://github.com/nonebot/nonebot">nonebot</a>
 
 
 ## About
