@@ -15,7 +15,7 @@
 </div>
 
 
-### About
+## About
 The name `Ganyu` is inspired by Genshin Impact released by Mihoyo
 
 My QQ：20203491392
@@ -28,10 +28,10 @@ Contact me：2023491392@qq.com
 
 The plugins are in `Hutao/plugins`
 
-### Declaration
+## Declaration
 **The development of this robot is for learning only,using it for business or other illegal purposes is not allowed**
 
-### Implementation
+## Implementation
 **Linux/Windows** system can run this project
 
 First, `Python 3.9+` is required
@@ -43,16 +43,16 @@ Follow Update.md for update
 
 
 
-### Usage
+## Usage
 Execute command: /menu
 
 
-### Thanks
+## Thanks
 [RichardChien](https://github.com/richardchien)
 
 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 
-### About bug
+## About bug
 1.pip uninstall nonebot2
 
 2.Submit a new issue
