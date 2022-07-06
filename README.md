@@ -1,5 +1,6 @@
 <div align="center">
  作者去搞nonebot2了，本项目暂时无人维护
+ 
  **Estus** 是一个基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 和 [nonebot](https://github.com/nonebot/nonebot) 的QQ机器人
  
 [Change to English Version](https://github.com/Beimo2007/nonebot-Estus/blob/main/English_README.md)
